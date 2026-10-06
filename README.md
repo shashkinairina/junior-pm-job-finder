@@ -23,9 +23,7 @@
 - **JobsPipe** — агрегатор вакансий
 
 ## Демо
-![Демонстрация работы агента](screenshots/demo.png[screen_1.tiff](https://github.com/user-attachments/files/33131235/screen_1.tiff)
-)
-
+![Демонстрация работы агента](screenshots:/screen_1.tiff)
 
 
 ## Файлы проекта
